@@ -4,127 +4,127 @@ xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitem
 xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
-<loc>http://idumpling.github.io/index.html</loc>
-<lastmod>2014-08-30T01:12:15-00:00</lastmod>
+<loc>/index.html</loc>
+<lastmod>2014-08-31T00:44:38-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://idumpling.github.io/archives.html</loc>
-<lastmod>2014-08-30T01:12:15-00:00</lastmod>
+<loc>/archives.html</loc>
+<lastmod>2014-08-31T00:44:38-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://idumpling.github.io/tags.html</loc>
-<lastmod>2014-08-30T01:12:15-00:00</lastmod>
+<loc>/tags.html</loc>
+<lastmod>2014-08-31T00:44:38-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://idumpling.github.io/categories.html</loc>
-<lastmod>2014-08-30T01:12:15-00:00</lastmod>
+<loc>/categories.html</loc>
+<lastmod>2014-08-31T00:44:38-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://idumpling.github.io/pages/about-me.html</loc>
+<loc>/pages/about-me.html</loc>
 <lastmod>2013-04-18T00:00:00-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://idumpling.github.io/webui-testing-with-selenium.html</loc>
+<loc>/introduction-to-zeromq.html</loc>
+<lastmod>2014-08-18T00:00:00-00:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>/webui-testing-with-selenium.html</loc>
 <lastmod>2014-07-11T00:00:00-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://idumpling.github.io/python-unittest.html</loc>
+<loc>/python-unittest.html</loc>
 <lastmod>2014-06-06T10:20:00-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://idumpling.github.io/introduction-to-zeromq.html</loc>
-<lastmod>2013-08-18T00:00:00-00:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>http://idumpling.github.io/chuan-cang-xian-qi-xing-xiao-jie.html</loc>
+<loc>/chuan-cang-xian-qi-xing-xiao-jie.html</loc>
 <lastmod>2013-06-22T02:25:00-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://idumpling.github.io/category/life.html</loc>
+<loc>/category/life.html</loc>
 <lastmod>2013-06-22T02:25:00:%s</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://idumpling.github.io/category/tech.html</loc>
+<loc>/category/tech.html</loc>
+<lastmod>2014-08-18T00:00:00:%s</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>/tag/python.html</loc>
 <lastmod>2014-07-11T00:00:00:%s</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://idumpling.github.io/tag/python.html</loc>
+<loc>/tag/autotest.html</loc>
 <lastmod>2014-07-11T00:00:00:%s</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://idumpling.github.io/tag/autotest.html</loc>
-<lastmod>2014-07-11T00:00:00:%s</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>http://idumpling.github.io/tag/travel.html</loc>
+<loc>/tag/travel.html</loc>
 <lastmod>2013-06-22T02:25:00:%s</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://idumpling.github.io/tag/programming.html</loc>
-<lastmod>2013-08-18T00:00:00:%s</lastmod>
+<loc>/tag/programming.html</loc>
+<lastmod>2014-08-18T00:00:00:%s</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://idumpling.github.io/tag/unittest.html</loc>
+<loc>/tag/unittest.html</loc>
 <lastmod>2014-06-06T10:20:00:%s</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://idumpling.github.io/tag/selenium.html</loc>
+<loc>/tag/selenium.html</loc>
 <lastmod>2014-07-11T00:00:00:%s</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://idumpling.github.io/author/xin-gao.html</loc>
-<lastmod>2014-07-11T00:00:00:%s</lastmod>
+<loc>/author/xin-gao.html</loc>
+<lastmod>2014-08-18T00:00:00:%s</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>

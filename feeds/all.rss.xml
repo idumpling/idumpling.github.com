@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>xgao's blog</title><link>http://idumpling.github.io/</link><description></description><atom:link href="http://idumpling.github.io/feeds/all.rss.xml" rel="self"></atom:link><lastBuildDate>Fri, 11 Jul 2014 00:00:00 +0800</lastBuildDate><item><title>WebUI Testing with Selenium</title><link>http://idumpling.github.io/webui-testing-with-selenium.html</link><description>&lt;p&gt;近些年， 随着互联网的爆炸式增长, 各种Web开发框架及相关技术层出不穷，&lt;br /&gt;
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>xgao's blog</title><link>/</link><description></description><atom:link href="/feeds/all.rss.xml" rel="self"></atom:link><lastBuildDate>Mon, 18 Aug 2014 00:00:00 +0800</lastBuildDate><item><title>Introduction to ZeroMQ</title><link>/introduction-to-zeromq.html</link><description>&lt;p&gt;之前在公司内部作了一次ZeroMQ的分享， 感兴趣的童鞋可以看看。  &lt;/p&gt;
+&lt;p&gt;在线查看地址： 点击&lt;a href="http://idumpling.github.io/zeromq-talk/"&gt;这里这里&lt;/a&gt;。 &lt;/p&gt;
+&lt;p&gt;&lt;a href="http://idumpling.github.io/zeromq-talk/"&gt;&lt;img alt="zmq talk cover" src="/images/zmq_talk_cover.png" /&gt;&lt;/a&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Xin Gao</dc:creator><pubDate>Mon, 18 Aug 2014 00:00:00 +0800</pubDate><guid>tag:,2014-08-18:introduction-to-zeromq.html</guid><category>programming</category></item><item><title>WebUI Testing with Selenium</title><link>/webui-testing-with-selenium.html</link><description>&lt;p&gt;近些年， 随着互联网的爆炸式增长, 各种Web开发框架及相关技术层出不穷，&lt;br /&gt;
 Web应用变得越来越丰富。
 在Web 开发过程中， 除了要编写必要的单元测是代码， 也要编写相应的功能测试代码， 
 以实现功能测试的自动化， 从而增加迭代的速度。&lt;/p&gt;
@@ -596,8 +598,8 @@ There is clean separation between test code and page specific code.&lt;/p&gt;
 
 
 &lt;blockquote&gt;
-&lt;p&gt;Pros: simple, easy to understand
-Cons: not reusable (against DRY principle), hard to maintain&lt;/p&gt;
+&lt;p&gt;Pros: simple, easy to understand  &lt;br /&gt;
+Cons: not reusable (against DRY principle), hard to maintain    &lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;h4&gt;Page Object (PO) example&lt;/h4&gt;
 &lt;p&gt;&lt;strong&gt;Instead of this:&lt;/strong&gt;&lt;/p&gt;
@@ -719,7 +721,7 @@ driver.find_element(by=, value=)&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;http://docs.seleniumhq.org/&lt;/li&gt;
 &lt;li&gt;https://selenium-python.readthedocs.org/&lt;/li&gt;
-&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Xin Gao</dc:creator><pubDate>Fri, 11 Jul 2014 00:00:00 +0800</pubDate><guid>tag:idumpling.github.io,2014-07-11:webui-testing-with-selenium.html</guid><category>python</category><category>autotest</category><category>selenium</category></item><item><title>Python Unittest</title><link>http://idumpling.github.io/python-unittest.html</link><description>&lt;p&gt;单元测试在软件开发中的重要性不言而喻，尤其是近些年敏捷开发以及DevOps理念的兴起，
+&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Xin Gao</dc:creator><pubDate>Fri, 11 Jul 2014 00:00:00 +0800</pubDate><guid>tag:,2014-07-11:webui-testing-with-selenium.html</guid><category>python</category><category>autotest</category><category>selenium</category></item><item><title>Python Unittest</title><link>/python-unittest.html</link><description>&lt;p&gt;单元测试在软件开发中的重要性不言而喻，尤其是近些年敏捷开发以及DevOps理念的兴起，
 更突显了在代码开发的过程中写单元测试的重要。&lt;/p&gt;
 &lt;p&gt;本文简单概述了 Python Unittest 的基本用法。
 详细内容可以参考&lt;a href="http://docs.python.org/2/library/unittest.html"&gt;官网&lt;/a&gt;&lt;/p&gt;
@@ -1033,9 +1035,7 @@ tools besides letting the developer add testing to an existing tool.&lt;/p&gt;
 &lt;li&gt;http://code.tutsplus.com/tutorials/beginning-test-driven-development-in-python--net-30137&lt;/li&gt;
 &lt;li&gt;http://halfcooked.com/presentations/pyconau2013/why_I_use_pytest.html&lt;/li&gt;
 &lt;li&gt;http://stackoverflow.com/questions/191673/preferred-python-unit-testing-framework&lt;/li&gt;
-&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Xin Gao</dc:creator><pubDate>Fri, 06 Jun 2014 10:20:00 +0800</pubDate><guid>tag:idumpling.github.io,2014-06-06:python-unittest.html</guid><category>python</category><category>autotest</category><category>unittest</category></item><item><title>Introduction to ZeroMQ</title><link>http://idumpling.github.io/introduction-to-zeromq.html</link><description>&lt;p&gt;之前在公司内部作了一次ZeroMQ的分享， 感兴趣的童鞋可以看看。  &lt;/p&gt;
-&lt;p&gt;在线查看地址： 点击&lt;a href="http://idumpling.github.io/zeromq-talk/"&gt;这里这里&lt;/a&gt;。 &lt;/p&gt;
-&lt;p&gt;&lt;a href="http://idumpling.github.io/zeromq-talk/"&gt;&lt;img alt="zmq talk cover" src="http://idumpling.github.io/images/zmq_talk_cover.png" /&gt;&lt;/a&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Xin Gao</dc:creator><pubDate>Sun, 18 Aug 2013 00:00:00 +0800</pubDate><guid>tag:idumpling.github.io,2013-08-18:introduction-to-zeromq.html</guid><category>programming</category></item><item><title>川藏线骑行小结</title><link>http://idumpling.github.io/chuan-cang-xian-qi-xing-xiao-jie.html</link><description>&lt;p&gt;&lt;img alt="bugong" src="http://idumpling.github.io/images/tibet_bugong.JPG" /&gt;&lt;/p&gt;
+&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Xin Gao</dc:creator><pubDate>Fri, 06 Jun 2014 10:20:00 +0800</pubDate><guid>tag:,2014-06-06:python-unittest.html</guid><category>python</category><category>autotest</category><category>unittest</category></item><item><title>川藏线骑行小结</title><link>/chuan-cang-xian-qi-xing-xiao-jie.html</link><description>&lt;p&gt;&lt;img alt="bugong" src="/images/tibet_bugong.JPG" /&gt;&lt;/p&gt;
 &lt;p&gt;川藏骑行已经过去一个星期了， 期间不断有人希望我能写篇游记来记录整个骑行过程。 &lt;br /&gt;
 我想了下， 如果要写完整的记录， 内容非常多， 并非一时半会能写完的。 因此决定， 暂且写一篇骑行总结。  &lt;/p&gt;
 &lt;p&gt;有一天， 我一定会把完整的骑记补上的！！！  &lt;/p&gt;
@@ -1163,4 +1163,4 @@ yuwang, xiaonan, dxiao, yulwang, jingwang, zheliu, xchu, xjia, xuesong, libin.  
 &lt;/blockquote&gt;
 &lt;p&gt;That's all.&lt;/p&gt;
 &lt;p&gt;鱼肉饺子&lt;/p&gt;
-&lt;p&gt;2013-06-22 凌晨&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Xin Gao</dc:creator><pubDate>Sat, 22 Jun 2013 02:25:00 +0800</pubDate><guid>tag:idumpling.github.io,2013-06-22:chuan-cang-xian-qi-xing-xiao-jie.html</guid><category>travel</category></item></channel></rss>
+&lt;p&gt;2013-06-22 凌晨&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Xin Gao</dc:creator><pubDate>Sat, 22 Jun 2013 02:25:00 +0800</pubDate><guid>tag:,2013-06-22:chuan-cang-xian-qi-xing-xiao-jie.html</guid><category>travel</category></item></channel></rss>
