@@ -5,28 +5,28 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>/index.html</loc>
-<lastmod>2014-09-14T16:18:50-00:00</lastmod>
+<lastmod>2014-12-19T23:38:49-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/archives.html</loc>
-<lastmod>2014-09-14T16:18:50-00:00</lastmod>
+<lastmod>2014-12-19T23:38:49-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/tags.html</loc>
-<lastmod>2014-09-14T16:18:50-00:00</lastmod>
+<lastmod>2014-12-19T23:38:49-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/categories.html</loc>
-<lastmod>2014-09-14T16:18:50-00:00</lastmod>
+<lastmod>2014-12-19T23:38:49-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -123,7 +123,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>/author/xin-gao.html</loc>
+<loc>/author/gao-xin.html</loc>
 <lastmod>2014-08-18T00:00:00:%s</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
