@@ -4,127 +4,134 @@ xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitem
 xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
-<loc>/index.html</loc>
-<lastmod>2014-12-19T23:38:49-00:00</lastmod>
+<loc>/</loc>
+<lastmod>2019-04-02T20:02:37-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/archives.html</loc>
-<lastmod>2014-12-19T23:38:49-00:00</lastmod>
+<lastmod>2019-04-02T20:02:37-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/tags.html</loc>
-<lastmod>2014-12-19T23:38:49-00:00</lastmod>
+<lastmod>2019-04-02T20:02:37-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/categories.html</loc>
-<lastmod>2014-12-19T23:38:49-00:00</lastmod>
+<lastmod>2019-04-02T20:02:37-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/pages/about.html</loc>
-<lastmod>2012-04-01T00:00:00-00:00</lastmod>
+<lastmod>2012-04-01T00:00:00+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>/introduction-to-kubernetes.html</loc>
+<lastmod>2019-01-23T00:00:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/introduction-to-zeromq.html</loc>
-<lastmod>2014-08-18T00:00:00-00:00</lastmod>
+<lastmod>2014-08-18T00:00:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/webui-testing-with-selenium.html</loc>
-<lastmod>2014-07-11T00:00:00-00:00</lastmod>
+<lastmod>2014-07-11T00:00:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/python-unittest.html</loc>
-<lastmod>2014-06-06T10:20:00-00:00</lastmod>
+<lastmod>2014-06-06T10:20:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/chuan-cang-xian-qi-xing-xiao-jie.html</loc>
-<lastmod>2013-06-22T02:25:00-00:00</lastmod>
+<lastmod>2013-06-22T02:25:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/category/life.html</loc>
-<lastmod>2013-06-22T02:25:00:%s</lastmod>
+<lastmod>2013-06-22T02:25:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/category/tech.html</loc>
-<lastmod>2014-08-18T00:00:00:%s</lastmod>
+<lastmod>2019-01-23T00:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/tag/python.html</loc>
-<lastmod>2014-07-11T00:00:00:%s</lastmod>
+<lastmod>2014-07-11T00:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/tag/autotest.html</loc>
-<lastmod>2014-07-11T00:00:00:%s</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>/tag/travel.html</loc>
-<lastmod>2013-06-22T02:25:00:%s</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>/tag/programming.html</loc>
-<lastmod>2014-08-18T00:00:00:%s</lastmod>
+<lastmod>2014-07-11T00:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/tag/unittest.html</loc>
-<lastmod>2014-06-06T10:20:00:%s</lastmod>
+<lastmod>2014-06-06T10:20:00+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>/tag/programming.html</loc>
+<lastmod>2019-01-23T00:00:00+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>/tag/travel.html</loc>
+<lastmod>2013-06-22T02:25:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/tag/selenium.html</loc>
-<lastmod>2014-07-11T00:00:00:%s</lastmod>
+<lastmod>2014-07-11T00:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/author/gao-xin.html</loc>
-<lastmod>2014-08-18T00:00:00:%s</lastmod>
+<loc>/author/xgao.html</loc>
+<lastmod>2019-01-23T00:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
